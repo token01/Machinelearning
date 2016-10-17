@@ -1,8 +1,4 @@
-# Author: Olivier Grisel <olivier.grisel@ensta.org>
-#         Lars Buitinck
-#         Chyi-Kwei Yau <chyikwei.yau@gmail.com>
-# License: BSD 3 clause
-
+# -*- coding: utf-8 -*-
 from __future__ import print_function
 from time import time
 
